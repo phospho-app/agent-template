@@ -1,6 +1,6 @@
 from phospho import Agent, Message
 
-agent = Agent("your-agent-name ") # Why a name?
+agent = Agent()
 
 @agent.ask()
 def myask(message):
