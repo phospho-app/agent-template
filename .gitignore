@@ -1,5 +1,6 @@
-agent/__pycache__
-
 # Ignore Mac system files
 .DS_Store
-agent/.DS_Store
+
+# Environment
+venv/
+
