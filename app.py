@@ -1,5 +1,6 @@
 from phospho import Agent, Message
 
+# Initialize the agent
 agent = Agent()
 
 @agent.ask()
