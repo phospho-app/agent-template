@@ -3,7 +3,8 @@ from phospho import Agent, Message
 # Initialize the agent
 agent = Agent()
 
-# Define your routes #
+# Define your routes
+# you don't have to implement both routes
 
 @agent.ask()
 def myask(message):
