@@ -13,3 +13,5 @@ def myask(message):
 @agent.chat()
 def mychat(message):
     return Message(f"Hello {message.content}!", {}, {})
+
+# That's it, you're done!
