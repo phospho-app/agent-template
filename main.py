@@ -4,7 +4,7 @@ from phospho import Agent, Message
 agent = Agent()
 
 def ph_agent(input : str):
-    response = f"PH asked : {input}"
+    response = f"John asked : {input}"
     return response
 
 # Define your routes
